@@ -5,8 +5,9 @@
 
 > My Name is Vanderson Erlan and im a Front End Developer.
 
-📖 Right now i'm just working with `JavaScript`, doing the maximun i can with pure JS.
+📖 Right now i'm working with `JavaScript`, `HTML5`, `CSS3` and `Bootstrap`.
 My next step is `TypeScript` and then `Angular 2`!
+
 
 > [!NOTE]
 > If You want to contact me, go to the link of my LinkedIn in my profile.
