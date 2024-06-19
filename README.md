@@ -1,9 +1,9 @@
 # Sr-Van :smile:
 ## Welcome to my GitHub!
 
-:wave: Hi there! that is my Portfolio: https://vanderson-dev.netlify.app
+:wave: Hi there! that is my Portfolio: https://vanderson-dev.com
 
-> My Name is Vanderson Erlan and im a Front End Developer.
+> My Name is Vanderson Erlan and im a Web Developer.
 
 📖 Right now i'm working with `TypeScript`, `JavaScript`, `Angular`, `HTML5`, `CSS3`, `TailwindCSS` and `MongoDB`.
 My next step is `C#` for back-end and then become a Full Stack Developer!
