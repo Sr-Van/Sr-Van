@@ -6,6 +6,7 @@
 > My Name is Vanderson Erlan and im a Web Developer.
 
 📖 Right now i'm working with `TypeScript`, `JavaScript`, `Angular`, `HTML5`, `CSS3`, `TailwindCSS` and `MongoDB`.
+Academically, I have been working with `Python` and `SQLite 3`. I have developed solid projects, including work in `Machine Learning` using `Google's GenAI`. Also creating REST API.
 My next step is `C#` for back-end and then become a Full Stack Developer!
 
 > I'm always excited to learn new features, especially with the framework Angular.
@@ -19,6 +20,7 @@ My next step is `C#` for back-end and then become a Full Stack Developer!
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
